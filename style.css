@@ -127,7 +127,7 @@ button{
 
 /* CSS for the fourth section */
 .fourth-section{
-    margin: 100px 100px;
+    margin: 50px 100px;
     background-color: #3882F6;
     padding: 50px 100px;
     color: #F9FAF8;
@@ -141,5 +141,13 @@ button{
 .sign-up{
     border: 2px solid #F9FAF8;
     
+    padding: 8px 16px;
+}
+
+/* CSS for the footer */
+.footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
     padding: 8px 16px;
 }
