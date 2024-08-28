@@ -124,3 +124,22 @@ button{
     font-size: 22px;
     font-weight: 600;
 }
+
+/* CSS for the fourth section */
+.fourth-section{
+    margin: 100px 100px;
+    background-color: #3882F6;
+    padding: 50px 100px;
+    color: #F9FAF8;
+    border-radius: 4px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sign-up{
+    border: 2px solid #F9FAF8;
+    
+    padding: 8px 16px;
+}
