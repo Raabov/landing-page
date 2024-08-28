@@ -102,3 +102,25 @@ button{
     font-size: 14px;
 }
 
+/* CSS for third section */
+
+.third-section{
+    margin: 10px 0px;
+    padding: 100px 450px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1F2937;
+}
+
+.author{
+    font-size: 22px;
+    font-weight: 600;
+}
