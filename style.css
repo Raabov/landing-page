@@ -42,15 +42,19 @@ body{
     width: 400px;
 }
 
-.first-section-block-one h1{
+.first-section-block-one h2{
     font-size: 48px;
     font-weight: 900;
+    margin: 0;
+    padding: 0;
 }
 
 .first-section-block-one p{
     font-size: 18px;
     color: #E5E7EB;
     font-weight: 900;
+    margin: 0;
+    padding: 8px 0px;
 }
 
 button{
